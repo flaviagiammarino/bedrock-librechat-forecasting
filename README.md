@@ -4,4 +4,4 @@ A conversational time series forecasting assistant that allows the user to retri
 
 Full details in the [blog post](https://flaviagiammarino.com/blog/chronos_bedrock.html).
 
-<img src=https://machine-learning-blog.s3.eu-west-2.amazonaws.com/chronos_bedrock/architecture_diagram.png style="width:100%;margin-top:60px;margin-bottom:50px"/>
+<img src=https://machine-learning-blog.s3.eu-west-2.amazonaws.com/forecasting-assistant/architecture_diagram.png style="width:100%;margin-top:60px;margin-bottom:50px"/>
